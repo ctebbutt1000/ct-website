@@ -1,0 +1,4 @@
+To remove — two steps only:
+
+Delete gate.js from your server
+Remove the <script src="gate.js"></script> line from each HTML file (it's flagged with a comment so it's easy to find)
